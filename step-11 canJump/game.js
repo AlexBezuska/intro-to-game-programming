@@ -48,6 +48,7 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {
   }
   if (game.keyboard.isPressed("space") && canJump == true){
     this.player.vy = -jumpSpeed;
+    canJump = false;
   }
   
   
