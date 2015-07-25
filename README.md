@@ -7,7 +7,8 @@ Let's create a super simple game where you can move a rectangle using the arrow 
 - Keyboard controls
 
 # It all starts here
-#[START HERE](http://tinyurl.com/splatformer)
+##[Presentation](https://docs.google.com/presentation/d/1eS4As5Sl9DVZ5CtjA8TQ0zNyUhpFeWrgFy6e1QR3hnU/edit?usp=sharing)
+##[Starting Pen](http://tinyurl.com/splatformer)
 This is a pen on codepen with all you need to start.
 
 # Here is a simple link to this github page:
