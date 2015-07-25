@@ -18,7 +18,7 @@ http://tinyurl.com/vkp101
 
 #Resources
 
-#[Velocity Kids Codepen Signup](https://docs.google.com/forms/d/1PLbxnpzasREP0YvWKkCPQcf-4G1P_VUwmxE0YB9Vk-E/viewform)
+#[Velocity Class Codepen Signup](https://docs.google.com/forms/d/1PLbxnpzasREP0YvWKkCPQcf-4G1P_VUwmxE0YB9Vk-E/viewform)
 
 
 [SplatJS Documentation](http://splatjs.github.io/)
